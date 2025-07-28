@@ -2,3 +2,22 @@ body{
     color:black;
     background:white;
 }
+
+header {
+    border-bottom: solid 2px rgb(34, 34, 31);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(226, 6, 6);
+}
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
